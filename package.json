@@ -5,21 +5,39 @@
   "keywords": [
     "uuid",
     "uuid-plus",
+    "uuid-generator",
     "uuidv4",
     "uuidv5",
     "uuidv7",
     "uuidv8",
     "guid",
     "unique-id",
+    "id-generator",
     "identifier",
     "sortable-id",
+    "time-sortable-id",
     "database-id",
+    "compact-uuid",
     "nodejs",
+    "javascript",
     "typescript",
-    "hmac"
+    "hmac",
+    "crypto",
+    "express",
+    "fastify",
+    "nestjs",
+    "zero-dependency"
   ],
   "author": "Sujal Patel",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujalpatel2209/uuid-plus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sujalpatel2209/uuid-plus/issues"
+  },
+  "homepage": "https://github.com/sujalpatel2209/uuid-plus#readme",
   "type": "module",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
